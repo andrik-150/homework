@@ -1,0 +1,15 @@
+C:\Users\Андрей\OneDrive\Desktop\GIT\Homework\Task\Task6\bin\Debug\net6.0\Task6.exe
+C:\Users\Андрей\OneDrive\Desktop\GIT\Homework\Task\Task6\bin\Debug\net6.0\Task6.deps.json
+C:\Users\Андрей\OneDrive\Desktop\GIT\Homework\Task\Task6\bin\Debug\net6.0\Task6.runtimeconfig.json
+C:\Users\Андрей\OneDrive\Desktop\GIT\Homework\Task\Task6\bin\Debug\net6.0\Task6.dll
+C:\Users\Андрей\OneDrive\Desktop\GIT\Homework\Task\Task6\bin\Debug\net6.0\Task6.pdb
+C:\Users\Андрей\OneDrive\Desktop\GIT\Homework\Task\Task6\obj\Debug\net6.0\Task6.csproj.AssemblyReference.cache
+C:\Users\Андрей\OneDrive\Desktop\GIT\Homework\Task\Task6\obj\Debug\net6.0\Task6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\OneDrive\Desktop\GIT\Homework\Task\Task6\obj\Debug\net6.0\Task6.AssemblyInfoInputs.cache
+C:\Users\Андрей\OneDrive\Desktop\GIT\Homework\Task\Task6\obj\Debug\net6.0\Task6.AssemblyInfo.cs
+C:\Users\Андрей\OneDrive\Desktop\GIT\Homework\Task\Task6\obj\Debug\net6.0\Task6.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\OneDrive\Desktop\GIT\Homework\Task\Task6\obj\Debug\net6.0\Task6.dll
+C:\Users\Андрей\OneDrive\Desktop\GIT\Homework\Task\Task6\obj\Debug\net6.0\refint\Task6.dll
+C:\Users\Андрей\OneDrive\Desktop\GIT\Homework\Task\Task6\obj\Debug\net6.0\Task6.pdb
+C:\Users\Андрей\OneDrive\Desktop\GIT\Homework\Task\Task6\obj\Debug\net6.0\Task6.genruntimeconfig.cache
+C:\Users\Андрей\OneDrive\Desktop\GIT\Homework\Task\Task6\obj\Debug\net6.0\ref\Task6.dll

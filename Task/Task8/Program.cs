@@ -1,1 +1,18 @@
-﻿Console.WriteLine("Здравствуйте Семен, не смог ослилить задачу 8, а списывать из гугла не захотел, первые 3 хоть что то понял, а 8 глухо:");
+int i = 1;
+bool not = true;
+Console.WriteLine("Введите число");
+int num = int.Parse(Console.ReadLine());
+Console.WriteLine("Четные числа от 1 до "+ num);
+while (i<=num)
+{
+    if (i % 2 !=1)
+    {
+        Console.Write(i+",");
+        not=false;
+    }
+    i++;
+}
+if (not)
+{
+    Console.WriteLine("Нет четных чисел");
+}
